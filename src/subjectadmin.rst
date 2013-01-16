@@ -1,12 +1,10 @@
-.. _role-Subjectadmin:
+.. _role_subjectadmin:
 
 =====================================
 Introduction to the Subjectadmin role
 =====================================
 
-.. note::
-    Please read, or at least take a quick look at, the
-    :ref:`commonconcepts` before reading this guide.
+.. note:: Please read, or at least take a quick look at, the :ref:`commonconcepts` before reading this guide.
 
 
 Who this guide is for

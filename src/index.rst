@@ -20,15 +20,37 @@ it to be used in many different settings. When you have skimmed over the concept
 you can continue with the other Topic guides below.
 
 
-Topics
-###################
-
 .. toctree::
-   :maxdepth: 2
+   :hidden:
 
    commonconcepts
+
+
+Subject administrator
+#####################
+
+.. toctree::
+   :maxdepth: 1
+
    subjectadmin
-    
+
+
+Examiner
+####################
+
+.. toctree::
+   :maxdepth: 1
+
+   examiner
+
+
+Student
+####################
+
+.. toctree::
+   :maxdepth: 1
+
+   student
 
    
 
