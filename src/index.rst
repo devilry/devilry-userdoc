@@ -49,6 +49,7 @@ Examiner
 
    examiner
    examiner_electronic_guide
+   examiner_nonelectronic_or_bulk_guide
    examinerdeadlines
 
 
