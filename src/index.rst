@@ -48,6 +48,7 @@ Examiner
    :maxdepth: 1
 
    examiner
+   examinerdeadlines
 
 
 Student
