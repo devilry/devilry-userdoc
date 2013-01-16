@@ -1,5 +1,10 @@
-Build docs
-##########
+Documentation for regular Devilry users. This repo contains
+the Sphinx-sources. You can view the build docs here:
+https://devilry-userdoc.readthedocs.org/
+
+
+Build the docs
+##############
 ::
 
     $ virtualenv .
