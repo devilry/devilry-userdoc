@@ -14,8 +14,8 @@ Deployment docs and scripts for `Devilry <http://devilry.org>`_.
 
 Getting started
 ###################
-We really recommend that you start with a quick look at :ref:`commonconcepts`.
-This is to avoid confusion with a few special terms that Devilry uses to allow
+We recommend that you start with a quick look at :ref:`commonconcepts`.
+This avoids confusion with a few special terms that Devilry uses to allow
 it to be used in many different settings. When you have skimmed over the concepts,
 you can continue with the other Topic guides below.
 
