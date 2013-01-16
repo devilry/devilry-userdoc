@@ -55,7 +55,7 @@ name (I.E.: *Spring 2011*). You register assignments on a period, and register
 students and examiners on each assignment.
 
 
-.. _group-candidate-student:
+.. _group_candidate_student:
 
 Group, Candidate and Student
 ======================================================
@@ -78,6 +78,8 @@ Deadline
 Deadlines are individual for each group. They are organized *below* a Group in
 the Devilry hierarchy. In other words: Each Group has one or more deadlines.
 
+
+.. _examiner:
 
 Examiner
 ======================================================
@@ -102,16 +104,16 @@ the special terms in brackets.
         - PHYS 101 --- Introduction to physics [:ref:`subject`]
             - Spring 2011 [:ref:`period`]
                 - Assignment one
-                    - Peter Pan and Wendy [:ref:`group-candidate-student`]
+                    - Peter Pan and Wendy [:ref:`group_candidate_student`]
                         - Deadline feb. 27 2012 19:30 [:ref:`deadline`]
                             - Delivery 1
-                    - Captain Hook [:ref:`group-candidate-student`]
+                    - Captain Hook [:ref:`group_candidate_student`]
                         - Deadline mar. 12 2012 11:45 [:ref:`deadline`]
                             - Delivery 3
                         - Deadline feb. 28 2012 12:30 [:ref:`deadline`]
                             - Delivery 2
                             - Delivery 1
-                    - John Doe [:ref:`group-candidate-student`]
+                    - John Doe [:ref:`group_candidate_student`]
                         - Deadline feb. 25 2012 23:35 [:ref:`deadline`]
                             - Delivery 1
             - Spring 2012 [:ref:`period`]
