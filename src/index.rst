@@ -48,6 +48,7 @@ Examiner
    :maxdepth: 1
 
    examiner
+   examiner_electronic_guide
    examinerdeadlines
 
 

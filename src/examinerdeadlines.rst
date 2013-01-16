@@ -19,9 +19,9 @@ A student gets a failing grade
 
 All or many students needs an extended deadline
 ===============================================
-1. Choose an assignment, and click the _Manage assignment groups_ button.
+1. Choose an assignment, and click the *Manage assignment groups* button.
 2. Choose the groups that needs an extended deadline. Use the checkbox at the header of the first column to select all groups. 
-3. Click _Advanced_ and select _Add deadline_.
+3. Click *Advanced* and select *Add deadline*.
 
 Move a deadline
 ###############
