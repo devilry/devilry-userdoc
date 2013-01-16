@@ -39,6 +39,7 @@ Subject administrator
    :maxdepth: 1
 
    subjectadmin
+   subjectadmindeadlines
 
 
 Examiner
