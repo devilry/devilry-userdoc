@@ -9,7 +9,7 @@ User documentation for `Devilry <http://devilry.org>`_.
     GitHub* (if logged into github) links in the sidebar.
 
     You can also submit issues with these docs to
-    `our issue tracker <https://github.com/devilry/devilry-userdocs/issues>`_.
+    `the devilry-userdoc issue tracker <https://github.com/devilry/devilry-userdoc/issues>`_.
 
 
 Getting started
@@ -20,10 +20,16 @@ it to be used in many different settings. When you have skimmed over the concept
 you can continue with the other Topic guides below.
 
 
+
+
+Common for all roles
+####################
+
 .. toctree::
-   :hidden:
+   :maxdepth: 1
 
    commonconcepts
+   email
 
 
 Subject administrator
