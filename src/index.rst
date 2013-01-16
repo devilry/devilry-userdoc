@@ -40,6 +40,7 @@ Subject administrator
 
    subjectadmin
    subjectadmindeadlines
+   subjectadmin_examiner
 
 
 Examiner

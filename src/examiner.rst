@@ -12,6 +12,8 @@ Examiner is someone that writes feedback. Examiners are often one of these:
 - Someone giving anonymous feedback on an exam.
 
 
+.. _what_can_examiners_do:
+
 What can an examiner do?
 ########################
 Examiners can basically do anything non-destructive with groups (see
