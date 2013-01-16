@@ -1,10 +1,11 @@
 .. _role_examiner:
 
 =====================================
-The Examiner role
+About the Examiner role
 =====================================
 
 Examiner is someone that writes feedback. Examiners are often one of these:
+
 - A teacher that corrects their own students. They are usually Period or
   Subject administrator in addition to Examiner.
 - A teaching assistant.
@@ -23,6 +24,7 @@ Examiners can basically do anything non-destructive with groups (see
   logged, and the students can view *all* published feedback.
 
 Examiners can not:
+
 - Delete groups.
 - Add new groups.
 - Add or remove students to groups.
