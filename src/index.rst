@@ -2,14 +2,14 @@
 Welcome to the Devilry user documentation
 =========================================
 
-Deployment docs and scripts for `Devilry <http://devilry.org>`_.
+User documentation for `Devilry <http://devilry.org>`_.
 
 .. note::
     You can contribute to these docs. Use the *Show on GitHub* or *Edit on
-    GitHub* (if logged into github) link in the sidebar.
+    GitHub* (if logged into github) links in the sidebar.
 
-    You can also submit issues with these docs via
-    `our github project page <https://github.com/devilry/devilry-userdocs/issues>`_.
+    You can also submit issues with these docs to
+    `our issue tracker <https://github.com/devilry/devilry-userdocs/issues>`_.
 
 
 Getting started
