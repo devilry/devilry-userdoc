@@ -68,7 +68,7 @@ each group.
 A Candidate can also have a candidate ID, which is used to identify the student
 on anonymous assignments like exams.
 
-.. seealso:: :ref:`The Student role <role-student>`.
+.. seealso:: :ref:`The Student role <role_student>`.
 
 
 .. _deadline:
@@ -84,12 +84,16 @@ the Devilry hierarchy. In other words: Each Group has one or more deadlines.
 Examiner
 ======================================================
 Examiner is someone that writes feedback. Examiners are often one of these:
+
 - A teacher that corrects their own students. They are usually Period or
   Subject administrator in addition to Examiner.
 - A teaching assistant.
 - Someone giving anonymous feedback on an exam.
 
-.. seealso:: :ref:`The Examiner role <role-examiner>`.
+A user becomes examiner when they are assigned as examiner for a group (See
+:ref:`group_candidate_student`) by an administrator.
+
+.. seealso:: :ref:`The Examiner role <role_examiner>`.
 
 
 
