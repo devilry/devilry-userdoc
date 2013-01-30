@@ -32,17 +32,6 @@ Common for all roles
    email
 
 
-Subject administrator
-#####################
-
-.. toctree::
-   :maxdepth: 1
-
-   subjectadmin
-   subjectadmindeadlines
-   subjectadmin_examiner
-
-
 Examiner
 ####################
 
@@ -63,7 +52,26 @@ Student
 
    student
 
-   
+
+Subject administrator
+#####################
+
+.. toctree::
+   :maxdepth: 1
+
+   subjectadmin
+   subjectadmindeadlines
+   subjectadmin_examiner
+
+
+Superusers
+#####################
+
+.. toctree::
+   :maxdepth: 1
+
+   helplinks
+
 
 Indices and tables
 ==================
