@@ -1,5 +1,5 @@
 ============================================
-Contact the Devilry developers
+Get involved / contact the Developers
 ============================================
 
 .. note::
