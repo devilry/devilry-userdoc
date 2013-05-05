@@ -35,7 +35,7 @@ Visit: `The Devilry Help Questions and Answers forum`_.
 We have a Question and Answer forum on Google Groups named Devilry Help. You
 can post anything on this forum, including:
 
-- help understanding Devilry --- no problem is to small for this forum
+- help understanding Devilry --- no problem is too small for this forum
 - suggest improvements --- even minor improvements
 - report problems
 - report bugs
