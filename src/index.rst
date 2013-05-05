@@ -20,6 +20,15 @@ it to be used in many different settings. When you have skimmed over the concept
 you can continue with the other Topic guides below.
 
 
+More help
+#########
+
+If this documentation is lacking, or if you have problems, detect bugs, etc...
+
+.. toctree::
+   :maxdepth: 1
+
+   contact
 
 
 Common for all roles
@@ -32,8 +41,20 @@ Common for all roles
    email
 
 
-Examiner
-####################
+Student
+#######
+.. note::
+    For users making deliveries and reading feedback on their own deliveries.
+
+.. toctree::
+   :maxdepth: 1
+
+   student
+
+
+Examiner/Corrector
+##################
+.. note:: For users making deliveries and reading feedback on their own deliveries.
 
 .. toctree::
    :maxdepth: 1
@@ -44,17 +65,10 @@ Examiner
    examinerdeadlines
 
 
-Student
-####################
-
-.. toctree::
-   :maxdepth: 1
-
-   student
-
-
-Subject administrator
-#####################
+Subject/Course administrator
+############################
+.. note::
+    For users managing one or more subjects/courses.
 
 .. toctree::
    :maxdepth: 1
@@ -62,6 +76,21 @@ Subject administrator
    subjectadmin
    subjectadmindeadlines
    subjectadmin_examiner
+   subjectadmin_qualifiesforexam
+
+
+Node/Department admin
+#####################
+.. note::
+    For users managing a Node containing multiple subjects/courses.
+
+.. toctree::
+   :maxdepth: 1
+
+   nodeadmin
+   nodeadmin-finditems
+   nodeadmin_qualifiesforexam
+
 
 
 Superusers
