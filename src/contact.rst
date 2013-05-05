@@ -2,13 +2,15 @@
 Contact the Devilry developers
 ============================================
 
-.. warning::
+.. note::
     Devilry is truly open, not just Open Source, but we also try to keep all
     issues, suggestions and plans in the open. This means that your suggestions,
     bugs, problems, etc. is handled in the open, and readable by anyone.
 
-    **DO NOT** post sensitive information, like names of students, passwords, etc.
-    via any of the contact channels listed below.
+
+.. warning::
+    **DO NOT post sensitive information**, like names of students, passwords, etc.
+    **via any of the contact channels** listed below (see the note above for why).
 
 
 Issue tracker
@@ -28,8 +30,9 @@ Question and Answers forum
 ##########################
 We have a Question and Answer forum on Google Groups named `Devilry Help <devilryhelpforum>`_. You
 can post anything on this forum, including:
-- help understanding Devilry
-- suggest improvements
+
+- help understanding Devilry --- no problem is to small for this forum
+- suggest improvements --- even minor improvements
 - report problems
 - report bugs
 - suggest new features
@@ -37,6 +40,10 @@ can post anything on this forum, including:
 .. note::
     We recommend that you use the issue tracker instead of this
     forum if you have a well defined problem or suggestion.
+    Even very small improvements or issues belong in the issue tracker, and
+    they end up there even if you post them in the Q&A forum. The only
+    difference is that someone else have to put them in the issue tracker,
+    which may delay fixing the issue.
 
 
 Contact email --- only for special cases
@@ -46,6 +53,8 @@ Contact email --- only for special cases
     channels, like the issue tracker, or in the Q&A forums. This mailinglist is
     typically for those that need private and direct contact with the Developers,
     and requests belonging in the other contact channels is ignored.
+
+    The warning above about sensitive information is also for this list.
 
 devilry-contact@googlegroups.com
 
