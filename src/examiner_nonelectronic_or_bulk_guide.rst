@@ -3,6 +3,7 @@ How to examine in bulk or correct non electronic deliveries
 ===========================================================
 
 .. note::
+
     To avoid total confusion when reading this guide, please read
     :ref:`commonconcepts`, at least the :ref:`group_candidate_student`-section.
 
@@ -39,5 +40,6 @@ selected*. A window containing the *grade editor* is shown. Click the
 Help-button in the lower left corner of the *grade editor* for more help.
 
 .. note::
+
     You can right-click anywhere in the group overview for quick access to
     everything in the toolbar.
