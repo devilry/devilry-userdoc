@@ -1,5 +1,5 @@
 ============================================
-Get involved / contact the Developers
+Forum, issue-tracker and contact information
 ============================================
 
 .. note::
