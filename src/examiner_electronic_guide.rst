@@ -3,8 +3,9 @@ Getting started guide for examiners of electronic deliveries made through Devilr
 =================================================================================
 
 .. note::
+
     To avoid total confusion when reading this guide, please read
-    :ref:`commonconcepts`, at least the :ref:`group_candidate_student`-section.
+    :ref:`commonconcepts`, at least the :ref:`group_candidate_student` section.
 
 
 Choose the examiner role
