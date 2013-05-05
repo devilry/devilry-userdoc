@@ -15,10 +15,11 @@ Contact the Devilry developers
 
 Issue tracker
 #############
-Anyone can add issues to our `issue tracker <issuetracker>`_ at our GitHub project page.
+Visit `The Devilry issue tracker`_.
 
-We use the issue tracker for bugs, problems, suggested improvements, suggested
-new features, etc.
+Anyone can add issues to our issue tracker at our GitHub project page. We use
+the issue tracker for bugs, problems, suggested improvements, suggested new
+features, etc.
 
 You need to create a GitHub user to add an issue. You just have to write an
 understandable title and description. We will then tag your issue, and respond
@@ -28,7 +29,10 @@ on your issues by email unless you disable email notifications on GitHub.
 
 Question and Answers forum
 ##########################
-We have a Question and Answer forum on Google Groups named `Devilry Help <devilryhelpforum>`_. You
+
+Visit: `The Devilry Help Questions and Answers forum`_.
+
+We have a Question and Answer forum on Google Groups named Devilry Help. You
 can post anything on this forum, including:
 
 - help understanding Devilry --- no problem is to small for this forum
@@ -46,6 +50,13 @@ can post anything on this forum, including:
     which may delay fixing the issue.
 
 
+Your local Devilry support
+##########################
+The local Devilry support typically adds a link to a page with their contact
+information in the Devilry header. Click your name in the upper right corner
+when logged in to Devilry, and see the links in the *Help*-section.
+
+
 Contact email --- only for special cases
 ########################################
 .. warning::
@@ -59,5 +70,5 @@ Contact email --- only for special cases
 devilry-contact@googlegroups.com
 
 
-.. _devilryhelpforum: https://groups.google.com/forum/#!forum/devilry-help
-.. _issuetracker: https://github.com/devilry/devilry-django/issues
+.. _`The Devilry Help Questions and Answers forum`: https://groups.google.com/forum/#!forum/devilry-help
+.. _`The Devilry issue tracker`: https://github.com/devilry/devilry-django/issues
