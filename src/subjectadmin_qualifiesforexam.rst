@@ -28,8 +28,8 @@ Changing or retracting
 You can retract or change a saved *qualified for final exams*-status.
 
 .. warning::
-    :ref:`Nodeadmins <role_nodeadmin>` are **not notified** when you **retract** or
-    **change** a status. We are working on a system that handles
+    :ref:`Nodeadmins <role_nodeadmin>` are **not notified** when you retract or
+    change a status. We are working on a system that handles
     updates/retracting, but that did not make it into the first release of the
     *Qualifies for final exams* app.
 
