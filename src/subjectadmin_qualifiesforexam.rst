@@ -34,6 +34,9 @@ You can retract or change a saved *qualified for final exams*-status.
     updates/retracting, but that did not make it into the first release of the
     *Qualifies for final exams* app.
 
+    Please notify the people coordinating final exams for your
+    department/organizational unit if you change a status.
+
 To change a status, simply use the button at the bottom of the box at the top
 of the page showing a status.
 
