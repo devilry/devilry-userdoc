@@ -63,6 +63,7 @@ Examiner/Corrector
    examiner_electronic_guide
    examiner_nonelectronic_or_bulk_guide
    examinerdeadlines
+   examiner_nonelectronic_delivery
 
 
 Subject/Course administrator
