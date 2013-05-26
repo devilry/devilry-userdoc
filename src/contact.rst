@@ -27,6 +27,11 @@ to your via comments on your issue. You should be notified for each new comments
 on your issues by email unless you disable email notifications on GitHub.
 
 
+Facebook
+########
+Visit our `Facebook <https://www.facebook.com/DevilryProsjektet>`_ page.
+
+
 Question and Answers forum
 ##########################
 
