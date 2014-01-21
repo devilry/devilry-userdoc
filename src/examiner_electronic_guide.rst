@@ -4,19 +4,20 @@ Getting started guide for examiners of electronic deliveries made through Devilr
 
 .. note::
 
-    To avoid total confusion when reading this guide, please read
+    To avoid confusion when reading this guide, please read
     :ref:`commonconcepts`, at least the :ref:`group_candidate_student` section.
 
 
 Choose the examiner role
-#############################
-It should be one of the available roles on your frontpage.
+-------------------------
+After successful login you need to choose *Examiner* from the list of
+available roles.
 
 
 Select an assignment
-#####################
+----------------------
 
-.. image:: /images/examiner/dash-select-assignment.png
+.. image:: /images/examiner/v2-select-assignment.png
     
 On the examiner _dashboard_, assignments where you are examiners are listed
 ordered by publishing time in descending order. Choose an assignment from this
