@@ -1,7 +1,7 @@
 .. _email:
 
 =====================================
-Emailsending in Devilry
+Email sending in Devilry
 =====================================
 
 Email sending is highly configurable in Devilry. This guide deals with the

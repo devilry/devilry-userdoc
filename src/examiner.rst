@@ -15,7 +15,7 @@ Examiner is someone that writes feedback. Examiners are often one of these:
 .. _what_can_examiners_do:
 
 What can an examiner do?
-########################
+--------------------------
 Examiners can basically do anything non-destructive with groups (see
 :ref:`group_candidate_student`) that they have been assigned to:
 
