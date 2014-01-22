@@ -27,8 +27,8 @@ Give the feedback
 The groups that you selected are listed after the ``Edit feedback for:`` text, please make sure that
 it is complete and correct before you take further actions. Provide your feedback. Click *Preview* button
 to get a glimpse on how your feedback will look when completely rendered. Be aware that *Preview* will save your feedback draft
-on each group and you will be able to come back and edit further from the *Preview* view.
+on each group. You will be able to come back and edit further in the next step.
 
- If you want to publish your work right away just click *Publish*.
+If you want to publish your work right away just click *Publish*.
 
 
