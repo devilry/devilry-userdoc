@@ -22,7 +22,7 @@ If you want to choose all groups within the active filter you may click *Select 
 to speed up the process. When you have created your selection click the *Write feedback* button
 to start providing feedback.
 
-Give the feedback
+Provide feedback
 ------------------
 The groups that you selected are listed after the ``Edit feedback for:`` text, please make sure that
 it is complete and correct before you take further actions. Provide your feedback. Click *Preview* button

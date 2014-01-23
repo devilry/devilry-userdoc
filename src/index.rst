@@ -13,7 +13,7 @@ User documentation for `Devilry <http://devilry.org>`_.
 
 
 Getting started
-###################
+----------------
 We recommend that you start with a quick look at :ref:`commonconcepts`.
 This avoids confusion with a few special terms that Devilry uses to allow
 it to be used in many different settings. When you have skimmed over the concepts,
@@ -21,7 +21,7 @@ you can continue with the other Topic guides below.
 
 
 More help
-#########
+----------
 
 If this documentation is lacking, or if you have problems, detect bugs, etc...
 
@@ -32,7 +32,7 @@ If this documentation is lacking, or if you have problems, detect bugs, etc...
 
 
 Common for all roles
-####################
+----------------------
 
 .. toctree::
    :maxdepth: 1
@@ -42,7 +42,7 @@ Common for all roles
 
 
 Student
-#######
+---------
 .. note::
     For users making deliveries and reading feedback on their own deliveries.
 
@@ -53,7 +53,7 @@ Student
 
 
 Examiner/Corrector
-##################
+----------------------
 .. note:: For users making deliveries and reading feedback on their own deliveries.
 
 .. toctree::
@@ -67,7 +67,7 @@ Examiner/Corrector
 
 
 Subject/Course administrator
-############################
+-----------------------------
 .. note::
     For users managing one or more subjects/courses.
 
@@ -81,7 +81,7 @@ Subject/Course administrator
 
 
 Node/Department admin
-#####################
+------------------------
 .. note::
     For users managing a Node containing multiple subjects/courses.
 
@@ -95,7 +95,7 @@ Node/Department admin
 
 
 Superusers
-#####################
+-----------
 
 .. toctree::
    :maxdepth: 1
@@ -104,7 +104,7 @@ Superusers
 
 
 Indices and tables
-==================
+-------------------
 
 * :ref:`genindex`
 * :ref:`modindex`
