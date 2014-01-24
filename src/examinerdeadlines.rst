@@ -19,13 +19,6 @@ you (when you publish a failing feedback) if you wish to give the group a new
 deadline.
 
 
-..
-    All or many students needs an extended deadline
-    ===============================================
-    1. Choose an assignment, and click the *Manage assignment groups* button.
-    2. Choose the groups that needs an extended deadline. Use the checkbox at the header of the first column to select all groups. 
-    3. Click *Advanced* and select *Add deadline*.
-
 Move a deadline
 ###############
 Currently, examiners can not move deadlines. This is coming along with an
