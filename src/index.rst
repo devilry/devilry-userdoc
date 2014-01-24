@@ -42,9 +42,7 @@ Common for all roles
 
 
 Student
----------
-.. note::
-    For users making deliveries and reading feedback on their own deliveries.
+#######
 
 .. toctree::
    :maxdepth: 1
@@ -53,17 +51,12 @@ Student
 
 
 Examiner/Corrector
-----------------------
-.. note:: For users making deliveries and reading feedback on their own deliveries.
+##################
 
 .. toctree::
    :maxdepth: 1
 
    examiner
-   examiner_electronic_guide
-   examiner_bulkedit_guide
-   examinerdeadlines
-   examiner_nonelectronic_delivery
 
 
 Subject/Course administrator

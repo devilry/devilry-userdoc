@@ -1,21 +1,44 @@
 .. _role_examiner:
 
-=====================================
-About the Examiner role
-=====================================
+*****************
+The Examiner role
+*****************
 
-Examiner is someone that writes feedback. Examiners are often one of these:
+.. note:: Examiner is someone that writes feedback. Examiners are often one of these:
 
-- A teacher that corrects their own students. They are usually Period or
-  Subject administrator in addition to Examiner.
-- A teaching assistant.
-- Someone giving anonymous feedback on an exam.
+    - Someone responsible for correcting some or all students in a subject/course.
+    - A teacher that corrects their own students. They are usually Period or
+      Subject administrator in addition to Examiner.
+    - Someone giving anonymous feedback on an exam.
+
+
+
+Getting started
+===============
+
+.. toctree::
+   :maxdepth: 1
+
+   examiner_electronic_guide
+
+
+Other examiner guides
+=====================
+
+.. toctree::
+   :maxdepth: 1
+
+   examiner_bulkedit_guide
+   examinerdeadlines
+   examiner_nonelectronic_delivery
+   markdown
+
 
 
 .. _what_can_examiners_do:
 
 What can an examiner do?
---------------------------
+========================
 Examiners can basically do anything non-destructive with groups (see
 :ref:`group_candidate_student`) that they have been assigned to:
 
