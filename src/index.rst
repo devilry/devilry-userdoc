@@ -42,7 +42,7 @@ Common for all roles
 
 
 Student
-#######
+--------
 
 .. toctree::
    :maxdepth: 1
@@ -51,7 +51,7 @@ Student
 
 
 Examiner/Corrector
-##################
+-------------------
 
 .. toctree::
    :maxdepth: 1
