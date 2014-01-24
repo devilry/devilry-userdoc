@@ -33,7 +33,13 @@ Other examiner guides
    examiner_nonelectronic_delivery
    markdown
 
+Frequently asked questions
+===========================
 
+.. toctree::
+   :maxdepth: 1
+
+   examiner_faq
 
 .. _what_can_examiners_do:
 
