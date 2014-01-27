@@ -19,7 +19,7 @@ Getting started
 .. toctree::
    :maxdepth: 1
 
-   examiner_electronic_guide
+   examiner_guide
 
 
 Other examiner guides
