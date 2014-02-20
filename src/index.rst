@@ -48,6 +48,7 @@ Student
    :maxdepth: 1
 
    student
+   student_groups
 
 
 Examiner/Corrector
@@ -69,6 +70,7 @@ Subject/Course administrator
 
    subjectadmin
    subjectadmindeadlines
+   subjectadmin_groups
    subjectadmin_examiner
    subjectadmin_qualifiesforexam
 
