@@ -32,10 +32,12 @@ enable this option on the assignment:
 2. Click any of the edit buttons in the sidebar to your left, except the edit button for *Grading system*.
 3. Edit the options in the *Allow students to form project groups* section.
 
-To see how students form project groups on their own, see
-:doc:`student_groups`. You should refer your students to that guide when you
-ask them to form their own groups. Devilry does not notify students when you
-enable this feature.
+.. note::
+
+    To see how students form project groups on their own, see
+    :doc:`student_groups`. You should refer your students to that guide when you
+    ask them to form their own groups. Devilry does not notify students when you
+    enable this feature.
 
 
 .. note::
